@@ -10,10 +10,12 @@ echo "Praktek CI/CD menggunakan Github & Railway";
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <script src="https://tailwindcss.com"></script>
+    <script src="https://cdn.tailwindcss.com"></script>
     <title>CI/CD</title>
 </head>
-<body>
-    <h1 class="text-lg font-red items-center">Hallo All</h1>
+<body class="flex items-center justify-center h-screen">
+    <h1 class="text-lg text-red-500 font-bold">
+        Hallo All
+    </h1>
 </body>
 </html>
