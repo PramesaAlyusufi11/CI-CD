@@ -8,13 +8,11 @@
     <title>CI/CD</title>
 </head>
 <body class="flex items-center justify-center h-screen bg-gray-100">
-    <div class="bg-white p-8 rounded-xl shadow-lg text-center flex flex-col gap-4">
-        <p class="text-gray-600 text-sm">
-            Praktek membuat CI/CD GitHub dengan Railway
-        </p>
-        <h1 class="text-2xl text-red-500 font-bold">
-            Hallo Alpramm
-        </h1>
-    </div>
+    <p class="text-gray-600 text-lg">
+        Praktek membuat CI/CD GitHub dengan Railway
+    </p>
+    <h1 class="text-2xl text-blue-500 font-bold">
+        Hallo Alpramm
+    </h1>
 </body>
 </html>
