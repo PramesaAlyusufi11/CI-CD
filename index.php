@@ -15,7 +15,7 @@ echo "Praktek CI/CD menggunakan Github & Railway";
 </head>
 <body class="flex items-center justify-center h-screen">
     <h1 class="text-lg text-red-500 font-bold">
-        Hallo All
+        Hallo Alpramm
     </h1>
 </body>
 </html>
