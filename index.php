@@ -1,5 +1,5 @@
 <?php
 
-echo "Praktek CI/CD menggunakan Github & Railway";
+echo "Hallo Alpram, Selmat belajar CI/CD!!";
 
 ?>
